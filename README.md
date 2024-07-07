@@ -27,9 +27,13 @@ ROS1
 
 ![맵1](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/955e7fea-ee66-4890-96ba-92fb86bdba87)
 
+turtlebot3_teleop을 실행해 로봇을 조종하며 S2 lidar로 2D Map을 생성한 모습
+
 ## 객체 인식
 
 ![객체인식](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/6828455f-5ed1-4e09-bd98-e46a1d581206)
+
+로봇에 부착된 카메라 센서(D435i)를 통해 객체(숫자)를 인식하는 모습
 
 ## 최종 프레임
 
