@@ -12,6 +12,15 @@ Linux Ubuntu 20.04
 ROS1
 
 ## 사용한 센서
+1. D435i - 객체 탐지용 카메라
+![D435i](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/fd3157cc-7e4b-49ab-8544-c28555216b07)
+
+3. T265i - 로봇의 위치 추정
+![t265](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/7ec0b950-8551-4c1f-8547-7da42c07e495)
+
+4. RPLidar S2 - 2D 맵 생성 및 장애물 인식
+![S2lidar](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/c898979c-6cb4-4d4f-be74-3ed79271a698)
+
 
 ## 최종 프레임
 
