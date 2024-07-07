@@ -27,9 +27,9 @@ OS X & 리눅스:
 * 0.0.1
     * 작업 진행 중
 
-## 정보
+## 작업자
 
-이름 – 김기현,안태현,기운찬
+김기현, 안태현, 기운찬, 김동민, 남궁민석
 
 [Github repository](https://github.com/gyun2/Delivery-bot-KMU)
 
