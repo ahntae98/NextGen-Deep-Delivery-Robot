@@ -5,24 +5,15 @@
 
 ![](../header.png)
 
-## 설치 방법
+## 사용 OS
+Linux Ubuntu 20.04
 
-OS X & 리눅스:
+## 사용 Tool
+ROS1
 
-```sh
-```
+## 사용한 센서
 
-
-## 사용 예제
-
-
-
-## 개발 환경 설정
-
-```sh
-```
-
-## 하드웨어
+## 최종 프레임
 
 ![시랏](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/d5cc0ee1-82b3-4251-8917-cf72c83f375e)
 
