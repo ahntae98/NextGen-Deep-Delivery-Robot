@@ -56,8 +56,6 @@ turtlebot3_teleop을 실행해 로봇을 조종하며 S2 lidar로 2D Map을 생�
 
 [Github repository](https://github.com/gyun2/Delivery-bot-KMU)
 
-## 기여 방법
-
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
