@@ -23,12 +23,19 @@ ROS1
 
 ![S2lidar](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/c898979c-6cb4-4d4f-be74-3ed79271a698)
 
+## 2D Map 생성
+
+![맵1](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/955e7fea-ee66-4890-96ba-92fb86bdba87)
+
+## 객체 인식
+
+![객체인식](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/6828455f-5ed1-4e09-bd98-e46a1d581206)
 
 ## 최종 프레임
 
 ![시랏](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/d5cc0ee1-82b3-4251-8917-cf72c83f375e)
 
-## 동작 화면
+## 최종 구현 화면
 ![KakaoTalk_20240528_174320609_01](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/befbcb33-8ad9-45eb-b942-d2e1207cdb80)
 ![result_robot](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/413dbcb2-fd9f-4f29-811c-110159734d32)
 
