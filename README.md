@@ -23,7 +23,7 @@ ROS1
 
 ![S2lidar](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/c898979c-6cb4-4d4f-be74-3ed79271a698)
 
-## URDF(TF) 구현
+## URDF(TF) 설정
 
 ![ㅅㄹ](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/911060c0-ce1d-4d8d-bd23-e1a2a3dc53d7)
 
