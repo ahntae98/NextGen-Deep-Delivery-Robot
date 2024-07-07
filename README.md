@@ -22,10 +22,13 @@ OS X & 리눅스:
 ```sh
 ```
 
-## 업데이트 내역
+## 하드웨어
 
-* 0.0.1
-    * 작업 진행 중
+![시랏](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/d5cc0ee1-82b3-4251-8917-cf72c83f375e)
+
+## 동작 화면
+![result_robot](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/413dbcb2-fd9f-4f29-811c-110159734d32)
+
 
 ## 작업자
 
