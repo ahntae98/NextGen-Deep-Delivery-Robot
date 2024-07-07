@@ -25,7 +25,9 @@ ROS1
 
 ## URDF(TF) 구현
 
+![ㅅㄹ](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/911060c0-ce1d-4d8d-bd23-e1a2a3dc53d7)
 
+각 센서들은 3차원 좌표계에서 각자의 고유 좌표를 가지고 있다. 따라서 하나의 로봇에 묶어 동작하기 위해서는 강제로 이들의 상대 좌표들을 묶어주는 작업이 필요하다
 
 ## 2D Map 생성
 
