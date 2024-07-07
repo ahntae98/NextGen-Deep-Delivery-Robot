@@ -27,6 +27,7 @@ OS X & 리눅스:
 ![시랏](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/d5cc0ee1-82b3-4251-8917-cf72c83f375e)
 
 ## 동작 화면
+![KakaoTalk_20240528_174320609_01](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/befbcb33-8ad9-45eb-b942-d2e1207cdb80)
 ![result_robot](https://github.com/ahntae98/NextGen-Deep-Delivery-Robot/assets/133379277/413dbcb2-fd9f-4f29-811c-110159734d32)
 
 
